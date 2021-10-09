@@ -112,7 +112,7 @@
         },
         "BOT_NAME": {
             "description": "heading for .list command reply",
-            "required": false,
+            "required": true,
             "value": "•━━━━╼⤏basilser⤎╾━━━•"
         },
         "WORK_TYPE": {
